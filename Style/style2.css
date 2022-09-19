@@ -1,0 +1,43 @@
+h1#instituição:hover{
+    color: green;
+    text-align: center;
+    border: 10px solid blanchedalmond;
+    transition-duration: 2s;
+}
+ h1#curso{
+    color: green;
+    animation-duration: 10s;
+    animation-name: slidein;
+    border-bottom: 5px solid black;
+}
+@keyframes slidein {
+    from {
+      margin-left: 100%;
+      width: 300%
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+}
+h2{
+    color: green;
+    border-bottom: 5px dashed black;
+}
+h3{
+  color: green;
+  border-bottom: 5px dashed black;
+}
+h4{
+  color: green;
+  border-bottom: 5px dashed black;
+}
+#dv1{
+  display: flex;
+  justify-content: center;
+}
+#dv2{
+  display: flex;
+  justify-content: center;
+}

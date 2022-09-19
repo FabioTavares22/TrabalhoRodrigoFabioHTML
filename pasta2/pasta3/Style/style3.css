@@ -1,0 +1,26 @@
+h1#curriculo{
+    color: green;
+    text-align: center;
+}
+h1#curriculo:hover{
+    border: 6px solid black;
+    transition: 3s;
+}
+h1#horario{
+    color: green;
+    text-align: center;
+    border-bottom: 5px dashed black;
+}
+p{
+    text-align: center;
+}
+.t1{
+    text-align: center;
+}
+#tb2{
+     width: 100%; float: right; 
+}
+#tb1{
+    width: 60%; float: none; 
+}
+

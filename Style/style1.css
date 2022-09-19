@@ -1,0 +1,26 @@
+h1#primeiro:hover{
+    color: green;
+    text-align: center;
+    border: 10px solid blanchedalmond;
+    transition-duration: 2s;
+}
+h1#segundo{
+    color: green;
+    border-bottom: 5px solid black;
+}
+h2{
+    color: green;
+    border-bottom: 5px dashed black;
+}
+h3{
+    color: green;
+    border-bottom: 5px dashed black;
+}
+h4{
+    color: green;
+    border-bottom: 5px dashed black;
+}
+#dov{
+    display: flex;
+    justify-content: center;
+}
